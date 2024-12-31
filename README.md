@@ -1,6 +1,7 @@
 # DIO_LAB_AI900_OCR
 
 [FR]
+
 Ce dépôt est un laboratoire faisant partie du cours de préparation pour l'examen AI-900 de Microsoft, organisé par Digital Innovation One.  
 Ici, la technologie d'IA a été utilisée pour la reconnaissance de texte dans les images, connue sous le nom d'OCR, ainsi que la fonctionnalité Image Caption, disponible sur le site [Azure AI Vision Studio](https://portal.vision.cognitive.azure.com/demo/image-captioning).  
 Le dépôt contient deux dossiers : **Inputs** et **Outputs**.
@@ -21,6 +22,7 @@ La reconnaissance de texte dans l'image _cmd.png_ a été exécutée avec succè
 Pour les deux images, des descriptions concises ont été générées, parfaitement conformes à leur contenu.
 
 [EN]
+
 This repository is a laboratory that is part of the preparation course for Microsoft's AI-900, promoted by Digital Innovation One.  
 Here, AI technology was used for text recognition in images, known as OCR, as well as the Image Caption feature, available on the [Azure AI Vision Studio](https://portal.vision.cognitive.azure.com/demo/image-captioning).  
 There are two folders inside the repository: **Inputs** and **Outputs**.
