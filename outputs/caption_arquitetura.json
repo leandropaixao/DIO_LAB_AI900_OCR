@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "8fd6f6b5-d139-42a6-b373-2608b06b654d",
+  "content-length": "160",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a diagram of a computer network",
+    "confidence": 0.6220908761024475
+  },
+  "metadata": {
+    "width": 1697,
+    "height": 1075
+  }
+}
